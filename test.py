@@ -56,8 +56,11 @@ if __name__ == '__main__':
     #     if i % 2 == 1 and i % 3 == 0:
     #         print("奇数--被三整除-->", i)
     # 乘法表
-    for i in range(1, 10):
-        for j in range(1, i + 1):
-            print(j, '*', i, '=', i * j, end='    ')  # end= 以。。。结尾
-        print()
-        #哈哈
+    # for i in range(1, 10):
+    #     for j in range(1, i + 1):
+    #         print(j, '*', i, '=', i * j, end='    ')  # end= '' 表示还没有结束
+    #     print()
+    # 三角型
+    # for i in range(5):
+    #     print("*" * (i + 1))
+
