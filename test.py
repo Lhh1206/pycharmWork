@@ -60,3 +60,4 @@ if __name__ == '__main__':
         for j in range(1, i + 1):
             print(j, '*', i, '=', i * j, end='    ')  # end= 以。。。结尾
         print()
+        #哈哈
